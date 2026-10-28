@@ -1,0 +1,6 @@
+sequence,kiln_id,kiln_name,cone,shelf_units,state
+1,KL-A,Juniper,6,10,ACTIVE
+2,KL-B,Larkspur,6,7,ACTIVE
+3,KL-C,Ember,10,8,ACTIVE
+4,KL-D,Thimble,6,5,OFFLINE
+5,KL-E,Cobalt,04,6,ACTIVE
