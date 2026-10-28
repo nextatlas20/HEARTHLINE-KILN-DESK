@@ -1,0 +1,5 @@
+sequence,kiln_id,kiln_name,cone,shelf_units,glaze_family,allocated_orders,used_units,remaining_units
+1,KL-A,Juniper,6,10,ASH,2,10,0
+2,KL-B,Larkspur,6,7,CELADON,1,5,2
+3,KL-C,Ember,10,8,IRON,1,5,3
+5,KL-E,Cobalt,04,6,COPPER,1,4,2
